@@ -30,7 +30,7 @@ Final-year postgraduate in Computer Science with Data Analytics, aiming to becom
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)]()
 [![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)]()
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)]()
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white])()
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
 
 ### Backend
 [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]()
@@ -39,30 +39,31 @@ Final-year postgraduate in Computer Science with Data Analytics, aiming to becom
 
 ### Database
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
-[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
-[![PostgreSQL](https://img.shields.io/badge/SQL-EF5323?style=for-the-badge&logo=postgresql&logoColor=white)]()
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)]()
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)]()
 
-### Tools
+### Programming & Tools
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)]()
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)]()
 
----
+----
 
 ## 🏆 Achievements
 
 ### Hackathons
-- **1st Prize** – Sri Sakthi Institute of Technology, Coimbatore (Mar 21, 2025)
+- **1st Prize** – Sri Sakthi Institute of Technology, Coimbatore (21 Mar 2025)
 
-### Paper Presentations (5 Awards)
-- **1st Prize** – K.G. College of Arts & Science, Coimbatore (Feb 22, 2025)  
-- **1st Prize** – Sri Venkateswara Arts & Science College, Gobichettipalayam (Jan 29, 2025)  
-- **1st Prize** – Hindustan College of Arts & Science, Coimbatore (Mar 8, 2025)  
-- **2nd Prize** – Bishop Ambrose College, Coimbatore (Aug 28, 2024)  
-- **Best Paper Award** – ICCICT Conference, Dr. N.G.P. Arts & Science College (Jan 3, 2025)
+### Paper Presentations & Awards
+- **Best Paper Award** – International Conference on Computing, Innovation & Communication Technology (ICCICT), Dr. N.G.P. Arts & Science College, Coimbatore (03 Jan 2025)  
+- **1st Prize** – Hindustan College of Arts & Science, Coimbatore (08 Mar 2025)  
+- **1st Prize** – K.G. College of Arts & Science, Coimbatore (22 Feb 2025)  
+- **1st Prize** – Sri Venkateswara Arts & Science College, Gobichettipalayam (29 Jan 2025)  
+- **2nd Prize** – Bishop Ambrose College, Coimbatore (28 Aug 2024)
 
-### Programs
-- **Student Development Program** – "Sentiment Analysis" Presentation, Dr. N.G.P. (Sep 30, 2024)
+### Programs & Workshops
+- **Student Development Program** – "Sentiment Analysis" Presentation, Dr. N.G.P. Arts & Science College, Coimbatore (30 Sep 2024)
+
 
 ---
 
