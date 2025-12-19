@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm **DHANYA K.R** 
+# Hi there, I'm **DHANYA K.R** 👋
 
 ![MERN Stack Developer](https://img.shields.io/badge/Role-MERN%20Stack%20Developer-brightgreen?style=for-the-badge&logo=react&logoColor=white)
 
@@ -9,14 +9,25 @@
 
 </div>
 
+---
+
+## 💡 Summary
+Full-stack developer with expertise in **MERN stack** and **data analytics**, passionate about building scalable and interactive web applications. Experienced in hackathons, AI-driven projects, and research presentations. Skilled in React, Node.js, Python, and MongoDB with a focus on delivering efficient and responsive solutions.
+
+---
+
 ## 🎯 Objective
-Final-year postgraduate in Computer Science with Data Analytics seeking MERN stack developer roles. Proven track record in hackathons, research presentations, and AI-driven projects. Skilled in full-stack development with React, Node.js, Python, and data analytics.
+Final-year postgraduate in Computer Science with Data Analytics, aiming to leverage my **full-stack development and data analytics skills** to contribute to innovative web applications. Seeking challenging MERN stack roles to apply my knowledge in real-world projects and grow as a developer.
+
+---
 
 ## 🎓 Education
 - **Master of Computer Science with Data Analytics** – 80%  
   Dr N.G.P Arts & Science College, Coimbatore (Final Year)
 - **Bachelor of Computer Applications** – 82%  
   PSG College of Arts & Science, Coimbatore
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -28,41 +39,48 @@ Final-year postgraduate in Computer Science with Data Analytics seeking MERN sta
 
 ### Backend
 [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]()
-[![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=%2361DAFB])()
-[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white])()
+[![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=%2361DAFB)]()
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)]()
 
 ### Database
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
-[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white])()
-[![SQL](https://img.shields.io/badge/SQL-EF5323?style=for-the-badge&logo=postgresql&logoColor=white])()
+[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
+[![PostgreSQL](https://img.shields.io/badge/SQL-EF5323?style=for-the-badge&logo=postgresql&logoColor=white)]()
 
 ### Tools
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)]()
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
 
+---
+
 ## 🏆 Achievements
 
 ### Hackathons
-- **1st Prize** – Sri Sakthi Institute of Tech, Coimbatore (March 21, 2025)
+- **1st Prize** – Sri Sakthi Institute of Technology, Coimbatore (Mar 21, 2025)
 
 ### Paper Presentations (5 Awards)
-- **1st Prize** – K.G. College of Arts & Science, Coimbatore (22-02-2025)
-- **1st Prize** – Sri Venkateswara Arts & Science College, Gobichettipalayam (29-01-2025)
-- **1st Prize** – Hindustan College of Arts & Science, Coimbatore (08-03-2025)
-- **2nd Prize** – Bishop Ambrose College, Coimbatore (28-08-2024)
-- **Participation** – Kongu Engineering College, Erode (15-02-2025)
-
-### Awards & Programs
+- **1st Prize** – K.G. College of Arts & Science, Coimbatore (Feb 22, 2025)  
+- **1st Prize** – Sri Venkateswara Arts & Science College, Gobichettipalayam (Jan 29, 2025)  
+- **1st Prize** – Hindustan College of Arts & Science, Coimbatore (Mar 8, 2025)  
+- **2nd Prize** – Bishop Ambrose College, Coimbatore (Aug 28, 2024)  
 - **Best Paper Award** – ICCICT Conference, Dr. N.G.P. Arts & Science College (Jan 3, 2025)
-- **Student Development Program** – "Sentiment Analysis" Presentation, Dr. N.G.P. (30-09-2024)
+
+### Programs
+- **Student Development Program** – "Sentiment Analysis" Presentation, Dr. N.G.P. (Sep 30, 2024)
+
+---
 
 ## 📜 Certifications
-- **React.js** – Infosys Springboard, Dec 2024
-- **Python for Data Science** – Infosys Springboard, Dec 2024
+- **React.js** – Infosys Springboard, Dec 2024  
+- **Python for Data Science** – Infosys Springboard, Dec 2024  
+
+---
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dravikr&show_icons=true&theme=radical&hide_border=true)
+
+---
 
 ## 📫 Contact Me
 <p align="center">
@@ -70,7 +88,3 @@ Final-year postgraduate in Computer Science with Data Analytics seeking MERN sta
 <a href="https://linkedin.com/in/dhanya3010"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/dravikr"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
-
-<div align="center">
-**"MERN Stack Developer | Research Scholar | Hackathon Champion"**
-</div>
