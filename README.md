@@ -12,12 +12,7 @@
 ---
 
 ## 💡 Summary
-Full-stack developer with expertise in **MERN stack** and **data analytics**, passionate about building scalable and interactive web applications. Experienced in hackathons, AI-driven projects, and research presentations. Skilled in React, Node.js, Python, and MongoDB with a focus on delivering efficient and responsive solutions.
-
----
-
-## 🎯 Objective
-Final-year postgraduate in Computer Science with Data Analytics, aiming to leverage my **full-stack development and data analytics skills** to contribute to innovative web applications. Seeking challenging MERN stack roles to apply my knowledge in real-world projects and grow as a developer.
+Final-year postgraduate in Computer Science with Data Analytics, aiming to become a **Full-Stack Developer**. Proficient in **MERN stack** and **Python**, with a strong focus on building efficient and responsive web applications.
 
 ---
 
