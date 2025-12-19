@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi there, I'm **DHANYA K.R** 
+# Hi there, I'm **DHANYA K.R** 
 
 ![MERN Stack Developer](https://img.shields.io/badge/Role-MERN%20Stack%20Developer-brightgreen?style=for-the-badge&logo=react&logoColor=white)
 
