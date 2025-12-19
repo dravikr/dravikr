@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm **DHANYA K.R** 
+# 👋 Hi there, I'm **DHANYA K.R** 
 
 ![MERN Stack Developer](https://img.shields.io/badge/Role-MERN%20Stack%20Developer-brightgreen?style=for-the-badge&logo=react&logoColor=white)
 
@@ -10,7 +10,7 @@
 </div>
 
 ## 🎯 Objective
-Final-year postgraduate in Computer Science with Data Analytics seeking MERN stack developer roles. Passionate about building scalable web applications using React, Node.js, Express, and MongoDB. Hack-Forge'25 winner with proven skills in full-stack development and AI integration.
+Final-year postgraduate in Computer Science with Data Analytics seeking MERN stack developer roles. Proven track record in hackathons, research presentations, and AI-driven projects. Skilled in full-stack development with React, Node.js, Python, and data analytics.
 
 ## 🎓 Education
 - **Master of Computer Science with Data Analytics** – 80%  
@@ -29,17 +29,36 @@ Final-year postgraduate in Computer Science with Data Analytics seeking MERN sta
 ### Backend
 [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]()
 [![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=%2361DAFB])()
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white])()
 
 ### Database
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
+[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white])()
+[![SQL](https://img.shields.io/badge/SQL-EF5323?style=for-the-badge&logo=postgresql&logoColor=white])()
 
 ### Tools
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)]()
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white])()
 
 ## 🏆 Achievements
-- **Hack-Forge'25 Hackathon Winner** 🏆 – Innovative problem-solving with React + AI workflows (50+ teams)
-- **React.js Certification** – Infosys Springboard, Dec 2024
+
+### Hackathons
+- **1st Prize** – Sri Sakthi Institute of Tech, Coimbatore (March 21, 2025)
+
+### Paper Presentations (5 Awards)
+- **1st Prize** – K.G. College of Arts & Science, Coimbatore (22-02-2025)
+- **1st Prize** – Sri Venkateswara Arts & Science College, Gobichettipalayam (29-01-2025)
+- **1st Prize** – Hindustan College of Arts & Science, Coimbatore (08-03-2025)
+- **2nd Prize** – Bishop Ambrose College, Coimbatore (28-08-2024)
+- **Participation** – Kongu Engineering College, Erode (15-02-2025)
+
+### Awards & Programs
+- **Best Paper Award** – ICCICT Conference, Dr. N.G.P. Arts & Science College (Jan 3, 2025)
+- **Student Development Program** – "Sentiment Analysis" Presentation, Dr. N.G.P. (30-09-2024)
+
+## 📜 Certifications
+- **React.js** – Infosys Springboard, Dec 2024
 - **Python for Data Science** – Infosys Springboard, Dec 2024
 
 ## 📈 GitHub Stats
@@ -53,5 +72,5 @@ Final-year postgraduate in Computer Science with Data Analytics seeking MERN sta
 </p>
 
 <div align="center">
-**"MERN Stack Developer building impactful web solutions"**
+**"MERN Stack Developer | Research Scholar | Hackathon Champion"**
 </div>
