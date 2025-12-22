@@ -73,11 +73,6 @@ Final-year postgraduate in Computer Science with Data Analytics, aiming to becom
 
 ---
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dravikr&show_icons=true&theme=radical&hide_border=true)
-
----
-
 ## 📫 Contact Me
 <p align="center">
 <a href="mailto:dhanyafab@gmail.com"><img src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"/></a>
