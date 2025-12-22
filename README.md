@@ -5,7 +5,7 @@
 ![Full Stack Developer](https://img.shields.io/badge/Role-MERN%20Stack%20Developer-brightgreen?style=for-the-badge&logo=react&logoColor=white)
 
 🌆 **Coimbatore, Tamil Nadu** | 📧 [dhanyafab@gmail.com](mailto:dhanyafab@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/dhanya3010) | [GitHub](https://github.com/dravikr)  
+🔗 [LinkedIn](https://linkedin.com/in/dhanya3010) | [GitHub](https://github.com/dravikr) | [Portfolio](https://dhanya-portfolio-wheat.vercel.app/)
 
 </div>
 
